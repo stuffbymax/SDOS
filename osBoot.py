@@ -1,0 +1,61 @@
+osBootSequence = [
+    "PERSONAL COMPUTER SYSTEM",
+    "ROM BIOS VERSION 2.43.07 COPYRIGHT (C) 1987-1996 CC INDUSTRIES",
+    "------------------------------------------------------------",
+    "SYSTEM MEMORY TESTING .................... 640K OK",
+    "EXTENDED MEMORY CHECK .................... 16384K OK",
+    "CACHE MEMORY ............................. ENABLED",
+    "KEYBOARD CONTROLLER ...................... OK",
+    "FLOPPY DRIVE A: 3.5\" 1.44MB .............. OK",
+    "FLOPPY DRIVE B: 5.25\" 1.2MB .............. NOT FOUND",
+    "HARD DISK 0: CC 512MB IDE ............ OK",
+    "HARD DISK 1: NOT DETECTED",
+    "CD-ROM DRIVE D: .......................... OK",
+    "PARALLEL PORT LPT1 ....................... OK",
+    "SERIAL PORTS COM1 COM2 ................... OK",
+    "VIDEO ADAPTER: CC VGA PLUS ........... OK",
+    "VIDEO MEMORY: 1024K DETECTED",
+    "MOUSE DEVICE ............................. OK",
+    "DMA CONTROLLERS ......................... OK",
+    "CMOS BATTERY STATUS ..................... GOOD",
+    "SYSTEM CLOCK ............................ 14.318 MHZ",
+    "POST COMPLETE. NO ERRORS FOUND.",
+    "",
+    "CC BOOT MANAGER v1.22",
+    "SCANNING FOR BOOTABLE DEVICES...",
+    " - DRIVE A: NO SYSTEM DISK",
+    " - DRIVE C: BOOTABLE PARTITION FOUND",
+    "",
+    "LOADING CC DOS 5.3 ............",
+    "KERNEL INITIALIZATION ............. OK",
+    "INSTALLING SYSTEM DRIVERS:",
+    "  - HIMEM.SYS ..................... OK",
+    "  - EMM386.EXE .................... ENABLED",
+    "  - RICNET.SYS .................... LOADED",
+    "  - RICSND.SYS .................... OK",
+    "  - RICVGA.SYS .................... OK",
+    "",
+    "MOUNTING FILE SYSTEM ............. OK",
+    "CONFIG.SYS PARSING ............... DONE",
+    "EXECUTING AUTOEXEC.BAT ...........",
+    "PATH=C:\\CC;C:\\CC\\BIN",
+    "SET TEMP=C:\\TEMP",
+    "",
+    "LOADING KERNEL MODULES ........................... PASSED"
+    "LOADING SYSTEM"
+    "---------------------------"
+    "1. Serve the public trust"
+    "2. Protect the innocent"
+    "3. Uphold the law"
+    "4. Any attempt to arrest a senior officer of OCP results"
+    "in shutdown (Listed as [Classified] in the initial activation)"
+    "---------------------------"
+    "CC NETWORK DRIVER INITIALIZED.",
+    "CC VGA PLUS DRIVER ACTIVE.",
+    "SYSTEM TIME: 07:42:36  TUE 10/14/25",
+    "------------------------------------------------------------",
+    "CC OPERATING SYSTEM v5.3.12",
+    "COPYRIGHT (C) 1987-2025 CC INDUSTRIES",
+    "ALL RIGHTS RESERVED.",
+    "\n\n",
+]
